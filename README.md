@@ -27,7 +27,7 @@ $ npm i request@2.88.0
 
 Before you use the library in your app, you’ll need to figure out which URL you’re trying to fetch. To fetch real-time weather data, you’ll need to sign up for a free Weatherstack API account. You can do that [here](https://weatherstack.com). 
 
-This API could be used to convert city name to its coordinates(longitude and latitude). These coordinates could be used to provide weather data using Mapbox API. You’ll need to sign up for a free Weatherstack API account. You can do that [here](https://www.mapbox.com/).
+This API could be used to convert city name to its coordinates(longitude and latitude). These coordinates could be used to provide weather data using Mapbox API. You’ll need to sign up for a free Mapbox API account. You can do that [here](https://www.mapbox.com/).
 
 ### Running the code
 ```
